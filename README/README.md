@@ -1,0 +1,1 @@
+This project will show and practice my newly learned skills in HTML. I will be building a recipe website that will show I know how to create links, create images, and decorate text all while using HTML.
